@@ -1,0 +1,2 @@
+# Search-Menu
+&lt;input type="text" id="mySearch" onkeyup="myFunction()" placeholder="Search.." title="Type in a category">  &lt;ul id="myMenu">   &lt;li>&lt;a href="#">HTML&lt;/a>&lt;/li>   &lt;li>&lt;a href="#">CSS&lt;/a>&lt;/li>   &lt;li>&lt;a href="#">JavaScript&lt;/a>&lt;/li>   &lt;li>&lt;a href="#">PHP&lt;/a>&lt;/li>   &lt;li>&lt;a href="#">Python&lt;/a>&lt;/li>   &lt;li>&lt;a href="#">jQuery&lt;/a>&lt;/li>   &lt;li>&lt;a href="#">SQL&lt;/a>&lt;/li>   &lt;li>&lt;a href="#">Bootstrap&lt;/a>&lt;/li>   &lt;li>&lt;a href="#">Node.js&lt;/a>&lt;/li> &lt;/ul>
